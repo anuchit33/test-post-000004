@@ -1,0 +1,14 @@
+{
+  "name": "หสวัสดีครับ",
+  "theme": "syntax",
+  "version": "1.0.76",
+  "description": "สวัสดีครับ",
+  "repository": "https://github.com/anuchit33/test-post-000004",
+  "keywords": [
+    "สวัสดี",
+  ],
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
