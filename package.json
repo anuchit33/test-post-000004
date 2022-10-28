@@ -1,14 +1,19 @@
 {
   "name": "ทดสอบบทความ 004",
-  "theme": "syntax",
+  "main": "./lib/test-post-000004",
   "version": "1.0.0",
   "description": "สวัสดีครับ",
-  "repository": "https://github.com/anuchit33/test-post-000004",
   "keywords": [
-    "สวัสดี"
+    "สวัสดีครับ"
   ],
+  "activationCommands": {
+    "atom-workspace": "test-post-000004:toggle"
+  },
+  "repository": "https://github.com/anuchit33/test-post-000004",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
   }
 }
